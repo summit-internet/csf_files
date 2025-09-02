@@ -1,2 +1,2 @@
 # csf_files
-The two latest csf files in tar.gz
+Two latest csf files in tar.gz
